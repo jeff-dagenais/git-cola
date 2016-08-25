@@ -13,7 +13,7 @@
    inkscape:export-xdpi="240.00000"
    inkscape:export-filename="/home/jimmac/gfx/novell/pdes/trunk/docs/BIGmime-text.png"
    sodipodi:docname="zoom-out.svg"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.5 r10040"
    sodipodi:version="0.32"
    id="svg249"
    height="48.000000px"
@@ -71,10 +71,10 @@
     </linearGradient>
   </defs>
   <sodipodi:namedview
-     inkscape:window-y="49"
+     inkscape:window-y="405"
      inkscape:window-x="0"
-     inkscape:window-height="1719"
-     inkscape:window-width="3200"
+     inkscape:window-height="746"
+     inkscape:window-width="1366"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      showgrid="true"
@@ -95,7 +95,8 @@
      inkscape:grid-points="true"
      fill="#729fcf"
      stroke="#2e3436"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:snap-page="false">
     <sodipodi:guide
        orientation="horizontal"
        position="28"
@@ -174,11 +175,11 @@
        x="0"
        y="0" />
     <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 20 4 A 16 16 0 0 0 4 20 A 16 16 0 0 0 20 36 A 16 16 0 0 0 36 20 A 16 16 0 0 0 20 4 z M 20 8 A 12 12 0 0 1 32 20 A 12 12 0 0 1 20 32 A 12 12 0 0 1 8 20 A 12 12 0 0 1 20 8 z "
        id="path4119" />
     <path
-       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       style="color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
        d="M 29.5,29.5 L 31.5,36 L 38.5,43.5 C 38.982472,44.016934 41.232233,44.767767 43,43 C 44.5,41.5 44.033333,38.997777 43.5,38.5 L 36,31.5 L 29.5,29.5 z "
        id="path15511"
        sodipodi:nodetypes="cczzzcc" />
@@ -190,9 +191,15 @@
        x="11.5"
        y="11.5" />
     <path
-       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 29,20 L 11,20"
+       style="fill:#e5e5e5;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 29,20 12.959371,20 11,20"
        id="path20757"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#e5e5e5;fill-opacity:0.75"
+       d="m 11.055,20.010311 0,-2.988205 8.964614,0 8.964613,0 0,2.988205 0,2.988204 -8.964613,0 -8.964614,0 0,-2.988204 z"
+       id="path10230"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
